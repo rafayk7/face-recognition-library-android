@@ -1,4 +1,4 @@
-# FaceRec Android
+![alt text](Capture.PNG)
 
 This is a library that will allow you to integrate facial recognition authentication 
 into your applications easily. This is still a work in progress, if you have any feature ideas and or any recommendations on what I should implement, or if you would like to work on this with me, shoot me a message or raise an issue!
